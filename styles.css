@@ -1,0 +1,149 @@
+#BGI {
+    display: flex;
+    background-image: url("assets/bg.jpg");
+    background-size: cover;
+    background-position: ;
+    height: 700px;
+    width: 50%;
+}
+
+
+
+#nav {
+display: flex;
+margin-left: 200px;
+margin-top: 40px;
+}
+
+
+
+
+.nav1, .nav2, .nav3, .nav4 {
+    height: 12px;
+    width: 75px;
+    background-color: red;
+    border-bottom : 1px solid  white;
+    margin: 2px;
+}
+
+
+
+
+
+
+#topimg {
+position: absolute;
+background-image: url("top-image.png");
+margin-top: 60px;
+margin-left: 200px;
+border: 4px solid white;
+}
+    
+
+
+
+.logo {
+
+
+}
+
+
+
+
+#articles {
+position:absolute;
+top: 200px;
+Display: flex;
+margin-left: 200px;
+}
+
+
+.article1, .article2, .article3 {
+height: 120px;
+width: 100px;
+border: 2px solid white;
+background-color: white;
+margin: 2px;
+}
+
+
+
+
+#grid {
+    display: grid;
+    height: 2px;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    margin: 0 auto;
+
+}
+
+
+
+.img1 {
+grid-column-start: 1;
+grid-column-end: 3;
+grid-row-start: 2;
+grid-row-end: 2;
+    
+}
+
+.img2{
+grid-column-start: 3;
+grid-column-end: 4;
+grid-row-start: 1;
+grid-row-end: 2;    
+
+    
+}
+
+.img3{
+    
+}
+
+#boards {
+
+
+}
+
+
+
+.b1, .b2, .b3, .b4, .b5, .b6, .b7, .b8, .b9, .b10 {
+
+
+
+}
+
+
+
+#btmimg {
+
+
+}
+
+
+.contact {
+
+
+}
+
+
+.textbox {
+
+
+}
+
+
+.tb1, .tb2, .tb3 {
+
+
+}
+
+.btn {
+
+}
+
+
+#arrow {
+
+
+}
